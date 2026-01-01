@@ -15,13 +15,18 @@ body {
 
 .content {
   background: #e3f4ff;
+  padding: 15px;
 }
 
 .button-container {
   background: #e3f4ff;
+  margin: 10px;
+  text-align: center;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  display: block;
+  margin: 0 auto; 
 }
